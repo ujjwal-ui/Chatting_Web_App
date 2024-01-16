@@ -1,2 +1,2 @@
 # Chatting_Web_App
-It is a path finding visualizer which is used to find path between two nodes.
+It is a one to one and group chatting web app.
